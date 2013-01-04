@@ -1,0 +1,3 @@
+[submodule "MarkdownPresenter"]
+	path = MarkdownPresenter
+	url = git://github.com/gregwym/MarkdownPresenter.git
